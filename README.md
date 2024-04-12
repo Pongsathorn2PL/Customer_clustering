@@ -1,0 +1,3 @@
+- EDA
+- Using k-means to clustering customers into 4 clusters
+- Using Scikit-learn to clean data instead of traditional method
